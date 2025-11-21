@@ -1,0 +1,224 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "title": "Atomic Habits",
+      "author": "James Clear",
+      "genre": "Self-Help",
+      "year": 2018,
+      "rating": 4.8,
+      "price": 15.99,
+      "publisher": "Penguin",
+      "language": "English"
+    },
+    {
+      "id": 2,
+      "title": "The Pragmatic Programmer",
+      "author": "Andrew Hunt",
+      "genre": "Programming",
+      "year": 1999,
+      "rating": 4.7,
+      "price": 39.99,
+      "publisher": "Addison-Wesley",
+      "language": "English"
+    },
+    {
+      "id": 3,
+      "title": "Clean Code",
+      "author": "Robert C. Martin",
+      "genre": "Programming",
+      "year": 2008,
+      "rating": 4.6,
+      "price": 34.99,
+      "publisher": "Prentice Hall",
+      "language": "English"
+    },
+    {
+      "id": 4,
+      "title": "Deep Work",
+      "author": "Cal Newport",
+      "genre": "Productivity",
+      "year": 2016,
+      "rating": 4.5,
+      "price": 18.99,
+      "publisher": "Grand Central",
+      "language": "English"
+    },
+    {
+      "id": 5,
+      "title": "The Lean Startup",
+      "author": "Eric Ries",
+      "genre": "Business",
+      "year": 2011,
+      "rating": 4.4,
+      "price": 21.99,
+      "publisher": "Crown",
+      "language": "English"
+    },
+    {
+      "id": 6,
+      "title": "Thinking, Fast and Slow",
+      "author": "Daniel Kahneman",
+      "genre": "Psychology",
+      "year": 2011,
+      "rating": 4.3,
+      "price": 14.99,
+      "publisher": "Farrar",
+      "language": "English"
+    },
+    {
+      "id": 7,
+      "title": "You Don't Know JS",
+      "author": "Kyle Simpson",
+      "genre": "Programming",
+      "year": 2015,
+      "rating": 4.6,
+      "price": 29.99,
+      "publisher": "O'Reilly",
+      "language": "English"
+    },
+    {
+      "id": 8,
+      "title": "Start With Why",
+      "author": "Simon Sinek",
+      "genre": "Business",
+      "year": 2009,
+      "rating": 4.2,
+      "price": 16.99,
+      "publisher": "Portfolio",
+      "language": "English"
+    },
+    {
+      "id": 9,
+      "title": "The 4-Hour Workweek",
+      "author": "Tim Ferriss",
+      "genre": "Lifestyle",
+      "year": 2007,
+      "rating": 4.1,
+      "price": 19.99,
+      "publisher": "Crown",
+      "language": "English"
+    },
+    {
+      "id": 10,
+      "title": "Hooked",
+      "author": "Nir Eyal",
+      "genre": "Business",
+      "year": 2014,
+      "rating": 4.3,
+      "price": 17.99,
+      "publisher": "Portfolio",
+      "language": "English"
+    },
+    {
+      "id": 11,
+      "title": "Cracking the Coding Interview",
+      "author": "Gayle Laakmann McDowell",
+      "genre": "Programming",
+      "year": 2015,
+      "rating": 4.7,
+      "price": 44.99,
+      "publisher": "CareerCup",
+      "language": "English"
+    },
+    {
+      "id": 12,
+      "title": "The Design of Everyday Things",
+      "author": "Don Norman",
+      "genre": "Design",
+      "year": 2013,
+      "rating": 4.5,
+      "price": 23.99,
+      "publisher": "Basic Books",
+      "language": "English"
+    },
+    {
+      "id": 13,
+      "title": "Refactoring",
+      "author": "Martin Fowler",
+      "genre": "Programming",
+      "year": 1999,
+      "rating": 4.6,
+      "price": 49.99,
+      "publisher": "Addison-Wesley",
+      "language": "English"
+    },
+    {
+      "id": 14,
+      "title": "The Art of Computer Programming",
+      "author": "Donald Knuth",
+      "genre": "Programming",
+      "year": 1968,
+      "rating": 4.9,
+      "price": 199.99,
+      "publisher": "Addison-Wesley",
+      "language": "English"
+    },
+    {
+      "id": 15,
+      "title": "Algorithms",
+      "author": "Robert Sedgewick",
+      "genre": "Programming",
+      "year": 2011,
+      "rating": 4.4,
+      "price": 59.99,
+      "publisher": "Addison-Wesley",
+      "language": "English"
+    },
+    {
+      "id": 16,
+      "title": "The Psychology of Money",
+      "author": "Morgan Housel",
+      "genre": "Finance",
+      "year": 2020,
+      "rating": 4.8,
+      "price": 14.99,
+      "publisher": "Harriman House",
+      "language": "English"
+    },
+    {
+      "id": 17,
+      "title": "Zero to One",
+      "author": "Peter Thiel",
+      "genre": "Business",
+      "year": 2014,
+      "rating": 4.3,
+      "price": 18.99,
+      "publisher": "Crown",
+      "language": "English"
+    },
+    {
+      "id": 18,
+      "title": "The Innovator's Dilemma",
+      "author": "Clayton Christensen",
+      "genre": "Business",
+      "year": 1997,
+      "rating": 4.2,
+      "price": 22.99,
+      "publisher": "Harvard Business Review",
+      "language": "English"
+    },
+    {
+      "id": 19,
+      "title": "Design Patterns",
+      "author": "Erich Gamma",
+      "genre": "Programming",
+      "year": 1994,
+      "rating": 4.7,
+      "price": 54.99,
+      "publisher": "Addison-Wesley",
+      "language": "English"
+    },
+    {
+      "id": 20,
+      "title": "The Mythical Man-Month",
+      "author": "Frederick P. Brooks",
+      "genre": "Software Engineering",
+      "year": 1975,
+      "rating": 4.5,
+      "price": 29.99,
+      "publisher": "Addison-Wesley",
+      "language": "English"
+    }
+  ]
+}
